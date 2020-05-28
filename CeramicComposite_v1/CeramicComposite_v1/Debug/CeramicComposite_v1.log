@@ -1,0 +1,46 @@
+﻿  CeramicComposite_v1.cpp
+C:\Users\shvor\source\repos\CeramicComposite_v1\CeramicComposite_v1\CeramicComposite_v1.cpp(325,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\shvor\source\repos\CeramicComposite_v1\CeramicComposite_v1\CeramicComposite_v1.cpp(506): message : выполняется компиляция ссылки на экземпляр шаблон функции "boost::numeric::ublas::vector<boost::numeric::ublas::vector<double,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>,boost::numeric::ublas::unbounded_array<boost::numeric::ublas::vector<T,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>,std::allocator<boost::numeric::ublas::vector<T,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>>>> SolveConductivityProblem<double>(int,int,double,double)"
+          with
+          [
+              T=double
+          ]
+C:\Users\shvor\source\repos\CeramicComposite_v1\CeramicComposite_v1\CeramicComposite_v1.cpp(334,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\shvor\source\repos\CeramicComposite_v1\CeramicComposite_v1\CeramicComposite_v1.cpp(344,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\shvor\source\repos\CeramicComposite_v1\CeramicComposite_v1\CeramicComposite_v1.cpp(350,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\shvor\source\repos\CeramicComposite_v1\CeramicComposite_v1\CeramicComposite_v1.cpp(228,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\shvor\source\repos\CeramicComposite_v1\CeramicComposite_v1\CeramicComposite_v1.cpp(511): message : выполняется компиляция ссылки на экземпляр шаблон функции "boost::numeric::ublas::vector<double,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>> calculateBeta1<double>(int,double,boost::numeric::ublas::vector<T,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>)"
+          with
+          [
+              T=double
+          ]
+C:\Users\shvor\source\repos\CeramicComposite_v1\CeramicComposite_v1\CeramicComposite_v1.cpp(238,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\shvor\source\repos\CeramicComposite_v1\CeramicComposite_v1\CeramicComposite_v1.cpp(247,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\shvor\source\repos\CeramicComposite_v1\CeramicComposite_v1\CeramicComposite_v1.cpp(254,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\shvor\source\repos\CeramicComposite_v1\CeramicComposite_v1\CeramicComposite_v1.cpp(262,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\shvor\source\repos\CeramicComposite_v1\CeramicComposite_v1\CeramicComposite_v1.cpp(81,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\shvor\source\repos\CeramicComposite_v1\CeramicComposite_v1\CeramicComposite_v1.cpp(357): message : выполняется компиляция ссылки на экземпляр шаблон функции "boost::numeric::ublas::vector<double,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>> TridiagonalAlgorithm<__DataType>(TridiagonalMatrix<__DataType>,boost::numeric::ublas::vector<T,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>)"
+          with
+          [
+              T=double,
+              __DataType=double
+          ]
+C:\Users\shvor\source\repos\CeramicComposite_v1\CeramicComposite_v1\CeramicComposite_v1.cpp(506): message : выполняется компиляция ссылки на экземпляр шаблон функции "boost::numeric::ublas::vector<boost::numeric::ublas::vector<double,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>,boost::numeric::ublas::unbounded_array<boost::numeric::ublas::vector<T,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>,std::allocator<boost::numeric::ublas::vector<T,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>>>> SolveConductivityProblem<double>(int,int,double,double)"
+          with
+          [
+              T=double
+          ]
+C:\Users\shvor\source\repos\CeramicComposite_v1\CeramicComposite_v1\CeramicComposite_v1.cpp(86,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\shvor\source\repos\CeramicComposite_v1\CeramicComposite_v1\CeramicComposite_v1.cpp(429,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\shvor\source\repos\CeramicComposite_v1\CeramicComposite_v1\CeramicComposite_v1.cpp(493): message : выполняется компиляция ссылки на экземпляр шаблон функции "boost::numeric::ublas::vector<boost::numeric::ublas::vector<double,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>,boost::numeric::ublas::unbounded_array<boost::numeric::ublas::vector<T,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>,std::allocator<boost::numeric::ublas::vector<T,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>>>> ComputePhases_Layer<__DataType>(int,boost::numeric::ublas::vector<T,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>,boost::numeric::ublas::vector<boost::numeric::ublas::vector<T,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>,boost::numeric::ublas::unbounded_array<boost::numeric::ublas::vector<T,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>,std::allocator<boost::numeric::ublas::vector<T,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>>>>,boost::numeric::ublas::vector<boost::numeric::ublas::vector<T,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>,boost::numeric::ublas::unbounded_array<boost::numeric::ublas::vector<T,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>,std::allocator<boost::numeric::ublas::vector<T,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>>>>,boost::numeric::ublas::vector<T,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>,boost::numeric::ublas::vector<T,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>)"
+          with
+          [
+              T=double,
+              __DataType=double
+          ]
+C:\Users\shvor\source\repos\CeramicComposite_v1\CeramicComposite_v1\CeramicComposite_v1.cpp(507): message : выполняется компиляция ссылки на экземпляр шаблон функции "boost::numeric::ublas::vector<boost::numeric::ublas::vector<boost::numeric::ublas::vector<double,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>,boost::numeric::ublas::unbounded_array<boost::numeric::ublas::vector<T,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>,std::allocator<boost::numeric::ublas::vector<T,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>>>>,boost::numeric::ublas::unbounded_array<boost::numeric::ublas::vector<boost::numeric::ublas::vector<T,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>,boost::numeric::ublas::unbounded_array<boost::numeric::ublas::vector<T,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>,std::allocator<boost::numeric::ublas::vector<T,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>>>>,std::allocator<boost::numeric::ublas::vector<boost::numeric::ublas::vector<T,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>,boost::numeric::ublas::unbounded_array<boost::numeric::ublas::vector<T,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>,std::allocator<boost::numeric::ublas::vector<T,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>>>>>>> ComputePhases_Macro<double>(boost::numeric::ublas::vector<boost::numeric::ublas::vector<T,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>,boost::numeric::ublas::unbounded_array<boost::numeric::ublas::vector<T,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>,std::allocator<boost::numeric::ublas::vector<T,boost::numeric::ublas::unbounded_array<T,std::allocator<T>>>>>>,int)"
+          with
+          [
+              T=double
+          ]
+  CeramicComposite_v1.vcxproj -> C:\Users\shvor\source\repos\CeramicComposite_v1\Debug\CeramicComposite_v1.exe
